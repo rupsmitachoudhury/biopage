@@ -52,16 +52,16 @@ body {
 }
 
 .hero {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
+    background: linear-gradient(254deg, black, #c89940, #786b6b);
+    color: black;
     text-align: center;
     padding: 150px 0 100px;
     margin-top: 60px;
 }
 
 .profile-img {
-    width: 150px;
-    height: 150px;
+    width: 180px;
+    height: 200px;
     border-radius: 50%;
     margin-bottom: 1rem;
     border: 5px solid white;
